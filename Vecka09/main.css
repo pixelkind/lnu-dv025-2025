@@ -4,7 +4,7 @@ body {
   font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
-header {
+.header {
   display: flex;
   width: 100%;
   justify-content: center;
@@ -35,7 +35,7 @@ main {
   width: 100%;
 }
 
-.profileImage {
+.profile-image {
   max-width: 4em;
   float: left;
   margin-right: 1em;
