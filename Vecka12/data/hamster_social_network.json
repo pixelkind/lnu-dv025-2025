@@ -1,0 +1,269 @@
+{
+  "users": [
+    {
+      "name": "HammyTheExplorer",
+      "id": 1,
+      "profile_image": "img/HammyTheExplorer.webp"
+    },
+    {
+      "name": "NibblesTheArtist",
+      "id": 2,
+      "profile_image": "img/NibblesTheArtist.webp"
+    },
+    {
+      "name": "GizmoTheInventor",
+      "id": 3,
+      "profile_image": "img/GizmoTheInventor.webp"
+    },
+    {
+      "name": "FluffyTheGourmet",
+      "id": 4,
+      "profile_image": "img/FluffyTheGourmet.webp"
+    },
+    {
+      "name": "SpikeTheAdventurer",
+      "id": 5,
+      "profile_image": "img/SpikeTheAdventurer.webp"
+    },
+    {
+      "name": "BellaTheArtist",
+      "id": 6,
+      "profile_image": "img/BellaTheArtist.webp"
+    },
+    {
+      "name": "Sir Whiskers the Explorer",
+      "id": 7,
+      "profile_image": "img/SirWhiskersTheExplorer.webp"
+    },
+    {
+      "name": "Madame Fluff\u00e9",
+      "id": 8,
+      "profile_image": "img/MadameFluffe.webp"
+    },
+    {
+      "name": "Flash the Sprinter",
+      "id": 9,
+      "profile_image": "img/FlashTheSprinter.webp"
+    },
+    {
+      "name": "Mighty Paws",
+      "id": 10,
+      "profile_image": "img/MightyPaws.webp"
+    },
+    {
+      "name": "Mayor Munchkins",
+      "id": 11,
+      "profile_image": "img/MayorMunchkin.webp"
+    }
+  ],
+  "posts": [
+    {
+      "id": 16,
+      "user_id": 5,
+      "image": "img/AhamsternamedSpikeonanighttimestargazingadventure.webp",
+      "description": "A quiet night under the stars. The universe is vast, and the adventures are endless. #Stargazing #NightSky",
+      "likes": 590,
+      "liked_by_user": true
+    },
+    {
+      "id": 26,
+      "user_id": 9,
+      "image": "img/FlashTheSprinterTakingAMoment.webp",
+      "description": "Every race is followed by recovery. Discipline in training, discipline in rest. #CoolDown #AthleteLife",
+      "likes": 491,
+      "liked_by_user": false
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "image": "img/Ahamsterenjoyingaminiaturepicnicoutdoors.webp",
+      "description": "Picnic time! Nothing beats a meal under the sky. #Picnic #HamsterJoy",
+      "likes": 742,
+      "liked_by_user": true
+    },
+    {
+      "id": 12,
+      "user_id": 4,
+      "image": "img/Ahamsterchefcarefullyassembling.webp",
+      "description": "A touch of color and a dash of flavor make the perfect salad! #GourmetSalad #ChefLife",
+      "likes": 313,
+      "liked_by_user": true
+    },
+    {
+      "id": 27,
+      "user_id": 11,
+      "image": "img/MayorMunchkinsAtTheGrandOpening.webp",
+      "description": "Thrilled to open our newest green space for all to enjoy! Community and greenery go hand in hand. #ParkOpening #HamsterCommunity",
+      "likes": 795,
+      "liked_by_user": true
+    },
+    {
+      "id": 19,
+      "user_id": 6,
+      "image": "img/Bellaahamsterartistsculptingatinymasterpiece.webp",
+      "description": "Shaping dreams into reality, one tiny sculpture at a time. #SculptureArt #CreativeJourney",
+      "likes": 121,
+      "liked_by_user": false
+    },
+    {
+      "id": 17,
+      "user_id": 5,
+      "image": "img/AhamsternamedSpikenavigatingatinyraft.webp",
+      "description": "Today's adventure took me down the tranquil streams. Every paddle stroke was a new discovery. #Rafting #NatureLover",
+      "likes": 856,
+      "liked_by_user": false
+    },
+    {
+      "id": 11,
+      "user_id": 3,
+      "image": "img/Ahamsterinventorexperimentingwithanewsustainableenergysource.webp",
+      "description": "Diving into the future with sustainable energy for all our hamster gadgets! #GreenTech #Innovation",
+      "likes": 987,
+      "liked_by_user": false
+    },
+    {
+      "id": 15,
+      "user_id": 5,
+      "image": "img/AnadventuroushamsternamedSpikediscoveringahiddengarden.webp",
+      "description": "Stumbled upon this hidden garden today. Nature's little wonders! #Adventure #HiddenGems",
+      "likes": 1000,
+      "liked_by_user": false
+    },
+    {
+      "id": 24,
+      "user_id": 10,
+      "image": "img/MightyPawsTheHamsterAthleteSkillfullyNavigating.webp",
+      "description": "Conquering the course with agility and speed. Every obstacle is an opportunity! #ObstacleCourse #AthleteLife",
+      "likes": 312,
+      "liked_by_user": false
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "image": "img/Acozyscenewithahamster.webp",
+      "description": "Taking a little break in my cozy hammock. #Relaxation #HamsterChill",
+      "likes": 855,
+      "liked_by_user": true
+    },
+    {
+      "id": 9,
+      "user_id": 3,
+      "image": "img/Ahamsterinventorworkingonaminiaturerobotinawellequippedworkshop.webp",
+      "description": "Just a little tweak here and there, and my newest invention will come to life! #InventorLife #Robotics",
+      "likes": 830,
+      "liked_by_user": false
+    },
+    {
+      "id": 18,
+      "user_id": 6,
+      "image": "img/Bellaahamsterartistdeeplyfocused.webp",
+      "description": "Immersed in my latest creation, where colors and imagination blend. #ArtLife #CreativeProcess",
+      "likes": 649,
+      "liked_by_user": false
+    },
+    {
+      "id": 7,
+      "user_id": 2,
+      "image": "img/Ahamsterartistpaintingadetailedportrait.webp",
+      "description": "Portrait of a dear friend, capturing the joy in little moments. #Portraiture #Friendship",
+      "likes": 488,
+      "liked_by_user": true
+    },
+    {
+      "id": 23,
+      "user_id": 9,
+      "image": "img/FlashtheSprinterinfullspeed.webp",
+      "description": "Breaking records, pushing limits. Today's race was one for the history books! #SpeedDemon #NewRecord",
+      "likes": 610,
+      "liked_by_user": true
+    },
+    {
+      "id": 10,
+      "user_id": 3,
+      "image": "img/constructingatinyinnovativevehicle.webp",
+      "description": "Revving up the engines on my latest creation! Can't wait to take this baby for a spin. #HamsterTech #EcoDrive",
+      "likes": 431,
+      "liked_by_user": true
+    },
+    {
+      "id": 8,
+      "user_id": 2,
+      "image": "img/Ahamsterattendingaminiatureartexhibition.webp",
+      "description": "An inspiring evening at the mini art exhibition. #ArtCommunity #Exhibition",
+      "likes": 571,
+      "liked_by_user": false
+    },
+    {
+      "id": 20,
+      "user_id": 6,
+      "image": "img/Bellaahamsterartistexperimentingwithanewpaintingtechnique.webp",
+      "description": "Diving into the world of watercolors and abstract forms. Art is an endless adventure! #ArtExperiment #WatercolorWonder",
+      "likes": 872,
+      "liked_by_user": true
+    },
+    {
+      "id": 1,
+      "user_id": 1,
+      "image": "img/Ahamsterrunninginanelaboratelydesignedhamsterwheel.webp",
+      "description": "Exploring the realms of my whimsical wheel! #Adventure #HamsterLife",
+      "likes": 982,
+      "liked_by_user": false
+    },
+    {
+      "id": 21,
+      "user_id": 7,
+      "image": "img/SirWhiskerstheExplorerstandingtriumphantly.webp",
+      "description": "Unveiling the mysteries of an ancient temple hidden in the depths of the jungle. #ExplorerLife #AncientMysteries",
+      "likes": 1000,
+      "liked_by_user": true
+    },
+    {
+      "id": 14,
+      "user_id": 4,
+      "image": "img/Ahamsterchefhostingaminiatureteaparty.webp",
+      "description": "An afternoon of tea and treats with friends. #TeaParty #PastryChef",
+      "likes": 971,
+      "liked_by_user": true
+    },
+    {
+      "id": 6,
+      "user_id": 2,
+      "image": "img/Ahamstermeticulouslyassemblingatinysculpture.webp",
+      "description": "Creating art from nature. #Sculpture #NatureArt",
+      "likes": 285,
+      "liked_by_user": false
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "image": "img/Ahamsterengagedinacreativeproject.webp",
+      "description": "Channeling my inner artist today! \ud83c\udfa8 #HamsterArt #CreativeVibes",
+      "likes": 483,
+      "liked_by_user": false
+    },
+    {
+      "id": 22,
+      "user_id": 8,
+      "image": "img/MadameFluffethegourmetchefhamsterhostingalavishdinnerparty.webp",
+      "description": "An evening of gastronomy and friendship. Each dish tells a story, each flavor sings a song. #GourmetDinner #ChefLife",
+      "likes": 704,
+      "liked_by_user": true
+    },
+    {
+      "id": 25,
+      "user_id": 10,
+      "image": "img/MightyPawsTheHamsterAthleteIntenselyFocused.webp",
+      "description": "In the zone, every training day brings me closer to victory. #TrainingDay #NoLimits",
+      "likes": 635,
+      "liked_by_user": true
+    },
+    {
+      "id": 13,
+      "user_id": 4,
+      "image": "img/Ahamsterchefbakingabatchofminiaturegourmetcupcakes.webp",
+      "description": "Sweet, tiny delights fresh from the oven! Who could resist? #BakingLove #CupcakeArt",
+      "likes": 751,
+      "liked_by_user": true
+    }
+  ]
+}
